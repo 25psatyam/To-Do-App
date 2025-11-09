@@ -1,7 +1,14 @@
 About the Project
 Main App Image when running
 
+![todo_app_snap](https://github.com/user-attachments/assets/c1c84f99-f652-4185-8ec4-a20f2093c9c3)
+
+
+
 This is a proof-of-concept app built to demonstrate the use of a completely separate application integrated into a Tauri app as an alternate Back-End via the separate application acting as a local WebSocket server.
+
+
+
 
 In this application specifically, the tech stack is as follows:
 
